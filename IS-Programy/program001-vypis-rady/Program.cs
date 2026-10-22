@@ -72,11 +72,30 @@ Console.WriteLine("=========================");
 //Console.WriteLine($" Diference(krok):{step}");
 
 //vypast na jeden radek
-Console.WriteLine($"Prvni cislo rady:{first} Posledni cislo rady:{last} Diference(krok):{step}");
+Console.WriteLine($"Prvni cislo rady:{first} Posledni cislo rady:{last} Diference(krok):{step}  ");
 
 
 Console.WriteLine("=========================");
 Console.WriteLine();
+    if (first <= last)
+    {
+        int current = first;
+        while(current <= last)
+        {
+            Console.Write($"{current};");
+            
+            //predchozi napsat skracene current = current + step;
+            current+= step;
+        }
+    }
+    else
+    {
+        Console.WriteLine("Radu nelze vypsat");
+        Console.WriteLine("prvni cislo je vetsi nez posledni");
+        Console.WriteLine("Tento program umi vypsat pouze vzestupnou radu");
+    }
+        
+
 
 // Dotaz smerem k uziteli na opakovani 
 Console.WriteLine();
