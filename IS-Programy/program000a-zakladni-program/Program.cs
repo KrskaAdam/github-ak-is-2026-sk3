@@ -59,7 +59,7 @@ Console.WriteLine("=========================");
 //Console.WriteLine($" Diference(krok):{step}");
 
 //vypast na jeden radek
-Console.WriteLine($"Prvni cislo rady:{first} Posledni cislo rady:{last} Diference(krok):{step}  ");
+Console.WriteLine($"Prvni cislo rady:{first} Posledni cislo rady:{last}   ");
 
 
 Console.WriteLine("=========================");

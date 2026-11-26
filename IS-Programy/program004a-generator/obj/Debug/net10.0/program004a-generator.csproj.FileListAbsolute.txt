@@ -1,0 +1,15 @@
+/Users/kazo/Documents/projects/github-ak-is-2026-sk3/IS-Programy/program004a-generator/obj/Debug/net10.0/program004a-generator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kazo/Documents/projects/github-ak-is-2026-sk3/IS-Programy/program004a-generator/obj/Debug/net10.0/program004a-generator.AssemblyInfoInputs.cache
+/Users/kazo/Documents/projects/github-ak-is-2026-sk3/IS-Programy/program004a-generator/obj/Debug/net10.0/program004a-generator.AssemblyInfo.cs
+/Users/kazo/Documents/projects/github-ak-is-2026-sk3/IS-Programy/program004a-generator/obj/Debug/net10.0/program004a-generator.csproj.CoreCompileInputs.cache
+/Users/kazo/Documents/projects/github-ak-is-2026-sk3/IS-Programy/program004a-generator/obj/Debug/net10.0/program004a-generator.sourcelink.json
+/Users/kazo/Documents/projects/github-ak-is-2026-sk3/IS-Programy/program004a-generator/bin/Debug/net10.0/program004a-generator
+/Users/kazo/Documents/projects/github-ak-is-2026-sk3/IS-Programy/program004a-generator/bin/Debug/net10.0/program004a-generator.deps.json
+/Users/kazo/Documents/projects/github-ak-is-2026-sk3/IS-Programy/program004a-generator/bin/Debug/net10.0/program004a-generator.runtimeconfig.json
+/Users/kazo/Documents/projects/github-ak-is-2026-sk3/IS-Programy/program004a-generator/bin/Debug/net10.0/program004a-generator.dll
+/Users/kazo/Documents/projects/github-ak-is-2026-sk3/IS-Programy/program004a-generator/bin/Debug/net10.0/program004a-generator.pdb
+/Users/kazo/Documents/projects/github-ak-is-2026-sk3/IS-Programy/program004a-generator/obj/Debug/net10.0/program004a-generator.dll
+/Users/kazo/Documents/projects/github-ak-is-2026-sk3/IS-Programy/program004a-generator/obj/Debug/net10.0/refint/program004a-generator.dll
+/Users/kazo/Documents/projects/github-ak-is-2026-sk3/IS-Programy/program004a-generator/obj/Debug/net10.0/program004a-generator.pdb
+/Users/kazo/Documents/projects/github-ak-is-2026-sk3/IS-Programy/program004a-generator/obj/Debug/net10.0/program004a-generator.genruntimeconfig.cache
+/Users/kazo/Documents/projects/github-ak-is-2026-sk3/IS-Programy/program004a-generator/obj/Debug/net10.0/ref/program004a-generator.dll
